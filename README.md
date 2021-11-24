@@ -1,5 +1,5 @@
 ## Aooww, eu sou a Adaías! ♣
--💻 Hoje eu trabalho como Desenvolvedor Backend
+<!-- -💻 Hoje eu trabalho como Desenvolvedor Backend
 
 -📓 No momento estou estudando React.Js && Docker
 <div align="center">
@@ -27,4 +27,4 @@
   <a href="https://www.linkedin.com/in/adaías-santos-almeida-3470951b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:adaias99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-</div>
+</div> -->
