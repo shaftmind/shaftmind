@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/shaftmind">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaftmind&show_icons=true&theme=dark&hide=stars,commits,prs,issues,contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaftmind&show_icons=true&theme=dark&hide=stars,commits,prs,issues,contribs&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaftmind&layout=compact&langs_count=7&theme=dark"/>
  </div>
   
