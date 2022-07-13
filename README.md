@@ -1,6 +1,6 @@
 ## Aooww, eu sou a Adaías! ♣
 -💻 Hoje trabalho como Dev Backend<br>
--🌱 Estudando React.Js && Docker<br>
+-🌱 Estudando Angular.Js<br>
 -📫 Como entrar em contato comigo: adaiask3@outlook.com
 
 <div align="center">
